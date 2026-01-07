@@ -1,16 +1,16 @@
-[Official] Notice: KCT Mainnet Hardfork and Migration to Polygon (Global)
+# [Official] Notice: KCT Mainnet Hardfork and Migration to Polygon (Global)
 
 ​Hello, this is the Konnect Team.
 
-​To achieve a significant expansion of the KCT ecosystem and to revitalize our core business operations, we are proceeding with a hardfork and migration of the KCT mainnet from the existing ERC-20 to the Polygon (MATIC) network.
+To achieve a significant expansion of the KCT ecosystem and to revitalize our core business operations, we are proceeding with a hardfork and migration of the KCT mainnet from the existing ERC-20 to the Polygon (MATIC) network.
 
 ​This decision is strategically aligned with the official launch of our core RWA-based distribution funding platform, 'KINC'. It aims to provide a global-standard network environment for all users. This hardfork will be conducted simultaneously across major global and domestic exchanges, including Gate.io, HTX, and GOPAX, based on Singapore Time (SGT), where many global exchange headquarters are located.
 
-​1. Hardfork and Suspension of Deposits/Withdrawals (Singapore Time)
+​1. Hardfork and Suspension of Deposits/Withdrawals (Singapore Time).
 
-​Time: Wednesday, January 7, 2026, at 2:00 PM (SGT, UTC+8)
-​
-Collaborating Exchanges: Gate.io, HTX, GOPAX
+​Time: Wednesday, January 7, 2026, at 2:00 PM (SGT, UTC+8).
+
+Collaborating Exchanges: Gate.io, HTX, GOPAX.
 
 ​Suspension: Deposits and withdrawals of KCT will be temporarily suspended from the start of the hardfork until network stability is confirmed.
 
@@ -38,12 +38,10 @@ Collaborating Exchanges: Gate.io, HTX, GOPAX
 
 ​The Konnect Team is committed to completing a real-economy blockchain ecosystem centered on the KINC platform through this Polygon migration. We will continue to grow as a trusted project through strong collaboration with global exchanges.
 
-Swap ratio : 1:1
-
-Token Contract Address : 0x75913249dE0e483f3c7989Fca4f772fc34296bbA
+Swap ratio: 1:1\
+Token Contract Address: 0x75913249dE0e483f3c7989Fca4f772fc34296bbA
 
 ​Thank you
 
-​January 7, 2026
-
+​January 7, 2026\
 Konnect Project Team
