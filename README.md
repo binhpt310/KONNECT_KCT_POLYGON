@@ -1,35 +1,36 @@
-[Official] Notice: KCT Mainnet Hardfork and Migration to Polygon (PoS)
+[Official] Notice: KCT Mainnet Hardfork and Migration to Polygon (Global)
 
-Hello, this is the Konnect Team.
+​Hello, this is the Konnect Team.
 
-To facilitate a significant expansion of the KCT ecosystem and revitalize our core business operations, we are officially proceeding with a Mainnet Hardfork and Migration. KCT will transition from the existing Ethereum (ERC-20) network to the Polygon (MATIC) network.
+​To achieve a significant expansion of the KCT ecosystem and to revitalize our core business operations, we are proceeding with a hardfork and migration of the KCT mainnet from the existing ERC-20 to the Polygon (MATIC) network.
+​This decision is strategically aligned with the official launch of our core RWA-based distribution funding platform, 'KINC'. It aims to provide a global-standard network environment for all users. This hardfork will be conducted simultaneously across major global and domestic exchanges, including Gate.io, HTX, and GOPAX, based on Singapore Time (SGT), where many global exchange headquarters are located.
 
-This strategic shift aligns with the official launch of KINC, our core RWA-based distribution funding platform. By migrating to Polygon, we aim to provide a high-performance, global-standard environment for all participants. This hardfork will be executed in coordination with major global and domestic exchanges.
+​1. Hardfork and Suspension of Deposits/Withdrawals (Singapore Time)
+​Time: Wednesday, January 7, 2026, at 2:00 PM (SGT, UTC+8)
+​Collaborating Exchanges: Gate.io, HTX, GOPAX
+​Suspension: Deposits and withdrawals of KCT will be temporarily suspended from the start of the hardfork until network stability is confirmed.
 
-Hardfork and Suspension Schedule The migration will be synchronized based on Singapore Time (SGT), the central hub for our primary exchange partners.
-Effective Time: Wednesday, January 7, 2026, at 2:00 PM (SGT, UTC+8)
+​2. Background and Purpose of Mainnet Migration
+​Revitalizing Core Business & KINC Platform: The Polygon mainnet was chosen to ensure the successful establishment of 'KINC', our RWA-based funding platform. This will optimize debt securitization and ledger issuance processes, maximizing real-world business utility.
+​Maximizing Network Efficiency & Scalability: By migrating to Polygon, we will secure significantly lower gas fees and faster transaction speeds compared to Ethereum, lowering the entry barrier for the global funding ecosystem.
+​Enhancing Security & Asset Protection: Through this hardfork, we will secure the health of the ecosystem and establish a robust system to protect assets from unauthorized outflows, such as past hacking incidents.
 
-Participating Exchanges: Gate.io, HTX, GOPAX
+​3. Migration Support for External Wallet Users
+​Support Period: Until March 31, 2026
+​Target: Holders who have KCT in personal wallets (e.g., MetaMask), not on exchanges.
+​Notice: A dedicated migration page for personal wallet holders will be provided. The Konnect headquarters will ensure a sufficient transition period until the end of March to protect the asset rights of all users.
 
-Service Impact: Deposits and withdrawals of KCT will be temporarily suspended from the commencement of the hardfork until the new network environment is confirmed as stable.
+​4. Important Notes for Investors
+​Assets held within the collaborating exchanges (Gate.io, HTX, GOPAX) will be automatically converted, so no individual action is required.
+​To prevent loss of funds during the hardfork and migration process, please refrain from any deposits or withdrawals until the official announcement of network stability.
+​The Konnect Team is committed to completing a real-economy blockchain ecosystem centered on the KINC platform through this Polygon migration. We will continue to grow as a trusted project through strong collaboration with global exchanges.
 
-Strategic Objectives of Migration KINC Platform Integration: Polygon was selected to ensure the seamless deployment of 'KINC'. This transition optimizes debt securitization and ledger issuance, maximizing the utility of our RWA-based funding ecosystem.
-Efficiency and Scalability: Migration provides significantly lower gas fees and near-instant transaction finality, removing barriers to entry for global users.
+Swap ratio : 1:1
 
-Enhanced Security: This hardfork serves to fortify the ecosystem. It establishes a robust framework to protect user assets and prevent unauthorized outflows, addressing vulnerabilities identified in legacy infrastructure.
+Token Contract Address : 0x75913249dE0e483f3c7989Fca4f772fc34296bbA
 
-Support for External Wallet Holders We are committed to protecting the asset rights of all holders, including those using non-custodial wallets.
-Support Period: Active until March 31, 2026.
+​Thank you
 
-Eligible Users: Holders with KCT in personal wallets (e.g., MetaMask).
-
-Action Required: A dedicated migration portal will be launched shortly. We encourage personal wallet holders to complete their migration within this window to ensure a seamless transition.
-
-Important Investor Guidelines Automatic Conversion: Assets held within collaborating exchanges (Gate.io, HTX, GOPAX) will be converted automatically. No manual action is required for exchange-based users.
-Risk Mitigation: To prevent potential loss of funds, please refrain from any KCT transfers during the migration window until an official "Stability Confirmed" notice is issued.
-
-Our Commitment: The Konnect Team is dedicated to building a real-economy blockchain ecosystem centered on the KINC platform. We appreciate your continued trust as we scale alongside our global partners.
-
-January 7, 2026
+​January 7, 2026
 
 Konnect Project Team
